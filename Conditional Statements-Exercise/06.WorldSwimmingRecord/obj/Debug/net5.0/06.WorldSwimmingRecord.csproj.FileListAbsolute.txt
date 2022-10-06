@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\bin\Debug\net5.0\06.WorldSwimmingRecord.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\bin\Debug\net5.0\06.WorldSwimmingRecord.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\bin\Debug\net5.0\06.WorldSwimmingRecord.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\bin\Debug\net5.0\06.WorldSwimmingRecord.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\bin\Debug\net5.0\06.WorldSwimmingRecord.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\bin\Debug\net5.0\06.WorldSwimmingRecord.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\refint\06.WorldSwimmingRecord.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\ref\06.WorldSwimmingRecord.dll

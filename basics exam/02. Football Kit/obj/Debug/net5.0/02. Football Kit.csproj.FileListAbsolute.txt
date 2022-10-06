@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\bin\Debug\net5.0\02. Football Kit.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\bin\Debug\net5.0\02. Football Kit.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\bin\Debug\net5.0\02. Football Kit.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\bin\Debug\net5.0\02. Football Kit.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\bin\Debug\net5.0\02. Football Kit.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\bin\Debug\net5.0\02. Football Kit.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\obj\Debug\net5.0\02. Football Kit.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\obj\Debug\net5.0\02. Football Kit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\obj\Debug\net5.0\02. Football Kit.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\obj\Debug\net5.0\02. Football Kit.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\obj\Debug\net5.0\02. Football Kit.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\obj\Debug\net5.0\02. Football Kit.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\obj\Debug\net5.0\refint\02. Football Kit.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\obj\Debug\net5.0\02. Football Kit.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\obj\Debug\net5.0\02. Football Kit.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\02. Football Kit\obj\Debug\net5.0\ref\02. Football Kit.dll

@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\bin\Debug\net5.0\06.Repainting.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\bin\Debug\net5.0\06.Repainting.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\bin\Debug\net5.0\06.Repainting.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\bin\Debug\net5.0\06.Repainting.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\bin\Debug\net5.0\06.Repainting.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\bin\Debug\net5.0\06.Repainting.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\obj\Debug\net5.0\refint\06.Repainting.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\06.Repainting\obj\Debug\net5.0\ref\06.Repainting.dll

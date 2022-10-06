@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\bin\Debug\net5.0\basic exam oficial.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\bin\Debug\net5.0\basic exam oficial.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\bin\Debug\net5.0\basic exam oficial.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\bin\Debug\net5.0\basic exam oficial.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\bin\Debug\net5.0\basic exam oficial.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\bin\Debug\net5.0\basic exam oficial.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\obj\Debug\net5.0\basic exam oficial.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\obj\Debug\net5.0\basic exam oficial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\obj\Debug\net5.0\basic exam oficial.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\obj\Debug\net5.0\basic exam oficial.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\obj\Debug\net5.0\basic exam oficial.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\obj\Debug\net5.0\basic exam oficial.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\obj\Debug\net5.0\refint\basic exam oficial.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\obj\Debug\net5.0\basic exam oficial.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\obj\Debug\net5.0\basic exam oficial.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\basic exam oficial\obj\Debug\net5.0\ref\basic exam oficial.dll

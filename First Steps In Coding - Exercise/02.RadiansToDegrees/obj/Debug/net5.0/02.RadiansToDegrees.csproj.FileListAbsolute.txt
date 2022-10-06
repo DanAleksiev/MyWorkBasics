@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\bin\Debug\net5.0\02.RadiansToDegrees.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\bin\Debug\net5.0\02.RadiansToDegrees.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\bin\Debug\net5.0\02.RadiansToDegrees.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\bin\Debug\net5.0\02.RadiansToDegrees.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\bin\Debug\net5.0\02.RadiansToDegrees.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\bin\Debug\net5.0\02.RadiansToDegrees.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\obj\Debug\net5.0\refint\02.RadiansToDegrees.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\02.RadiansToDegrees\obj\Debug\net5.0\ref\02.RadiansToDegrees.dll

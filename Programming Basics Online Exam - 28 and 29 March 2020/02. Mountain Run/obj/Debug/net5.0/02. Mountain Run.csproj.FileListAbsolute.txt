@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\net5.0\02. Mountain Run.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\net5.0\02. Mountain Run.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\net5.0\02. Mountain Run.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\net5.0\02. Mountain Run.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\net5.0\02. Mountain Run.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\net5.0\02. Mountain Run.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net5.0\refint\02. Mountain Run.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net5.0\ref\02. Mountain Run.dll

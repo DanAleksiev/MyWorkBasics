@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\obj\Debug\net5.0\refint\03. Excursion Calculator.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\03. Excursion Calculator\obj\Debug\net5.0\ref\03. Excursion Calculator.dll

@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\bin\Debug\net5.0\09.SkiТrip.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\bin\Debug\net5.0\09.SkiТrip.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\bin\Debug\net5.0\09.SkiТrip.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\bin\Debug\net5.0\09.SkiТrip.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\bin\Debug\net5.0\09.SkiТrip.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\bin\Debug\net5.0\09.SkiТrip.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\obj\Debug\net5.0\09.SkiТrip.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\obj\Debug\net5.0\09.SkiТrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\obj\Debug\net5.0\09.SkiТrip.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\obj\Debug\net5.0\09.SkiТrip.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\obj\Debug\net5.0\09.SkiТrip.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\obj\Debug\net5.0\09.SkiТrip.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\obj\Debug\net5.0\refint\09.SkiТrip.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\obj\Debug\net5.0\09.SkiТrip.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\obj\Debug\net5.0\09.SkiТrip.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\09.SkiТrip\obj\Debug\net5.0\ref\09.SkiТrip.dll

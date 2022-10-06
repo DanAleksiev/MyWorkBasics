@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\refint\09. Left and Right Sum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\ref\09. Left and Right Sum.dll

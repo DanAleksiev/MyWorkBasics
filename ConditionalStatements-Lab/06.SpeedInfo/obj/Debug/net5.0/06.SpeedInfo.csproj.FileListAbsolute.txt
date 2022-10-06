@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net5.0\06.SpeedInfo.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net5.0\06.SpeedInfo.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net5.0\06.SpeedInfo.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net5.0\06.SpeedInfo.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net5.0\06.SpeedInfo.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net5.0\06.SpeedInfo.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\refint\06.SpeedInfo.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\ref\06.SpeedInfo.dll

@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\bin\Debug\net5.0\tax.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\bin\Debug\net5.0\tax.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\bin\Debug\net5.0\tax.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\bin\Debug\net5.0\tax.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\bin\Debug\net5.0\tax.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\bin\Debug\net5.0\tax.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\obj\Debug\net5.0\tax.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\obj\Debug\net5.0\tax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\obj\Debug\net5.0\tax.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\obj\Debug\net5.0\tax.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\obj\Debug\net5.0\tax.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\obj\Debug\net5.0\tax.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\obj\Debug\net5.0\refint\tax.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\obj\Debug\net5.0\tax.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\obj\Debug\net5.0\tax.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\tax\tax\obj\Debug\net5.0\ref\tax.dll

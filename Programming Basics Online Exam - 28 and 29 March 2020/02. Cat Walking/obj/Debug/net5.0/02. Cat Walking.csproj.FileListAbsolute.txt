@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net5.0\02. Cat Walking.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net5.0\02. Cat Walking.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net5.0\02. Cat Walking.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net5.0\02. Cat Walking.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net5.0\02. Cat Walking.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net5.0\02. Cat Walking.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\refint\02. Cat Walking.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\ref\02. Cat Walking.dll

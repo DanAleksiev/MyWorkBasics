@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net5.0\02.SummerOutfit.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net5.0\02.SummerOutfit.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net5.0\02.SummerOutfit.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net5.0\02.SummerOutfit.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net5.0\02.SummerOutfit.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net5.0\02.SummerOutfit.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net5.0\02.SummerOutfit.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net5.0\02.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net5.0\02.SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net5.0\02.SummerOutfit.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net5.0\02.SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net5.0\02.SummerOutfit.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net5.0\refint\02.SummerOutfit.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net5.0\02.SummerOutfit.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net5.0\02.SummerOutfit.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net5.0\ref\02.SummerOutfit.dll

@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net5.0\03. Energy Booster.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net5.0\03. Energy Booster.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net5.0\03. Energy Booster.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net5.0\03. Energy Booster.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net5.0\03. Energy Booster.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net5.0\03. Energy Booster.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\refint\03. Energy Booster.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\ref\03. Energy Booster.dll

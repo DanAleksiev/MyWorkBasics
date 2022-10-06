@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\bin\Debug\net5.0\04.ToyShop.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\bin\Debug\net5.0\04.ToyShop.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\bin\Debug\net5.0\04.ToyShop.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\bin\Debug\net5.0\04.ToyShop.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\bin\Debug\net5.0\04.ToyShop.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\bin\Debug\net5.0\04.ToyShop.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\obj\Debug\net5.0\refint\04.ToyShop.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\04.ToyShop\obj\Debug\net5.0\ref\04.ToyShop.dll

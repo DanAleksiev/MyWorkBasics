@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\bin\Debug\net5.0\06. Building.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\bin\Debug\net5.0\06. Building.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\bin\Debug\net5.0\06. Building.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\bin\Debug\net5.0\06. Building.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\bin\Debug\net5.0\06. Building.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\bin\Debug\net5.0\06. Building.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\obj\Debug\net5.0\refint\06. Building.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Nested Loops - Lab\06. Building\obj\Debug\net5.0\ref\06. Building.dll

@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\refint\07.HotelRoom.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net5.0\ref\07.HotelRoom.dll

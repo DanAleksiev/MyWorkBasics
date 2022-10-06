@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\bin\Debug\net5.0\05. Puppy Care.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\bin\Debug\net5.0\05. Puppy Care.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\bin\Debug\net5.0\05. Puppy Care.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\bin\Debug\net5.0\05. Puppy Care.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\bin\Debug\net5.0\05. Puppy Care.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\bin\Debug\net5.0\05. Puppy Care.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\obj\Debug\net5.0\05. Puppy Care.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\obj\Debug\net5.0\05. Puppy Care.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\obj\Debug\net5.0\05. Puppy Care.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\obj\Debug\net5.0\05. Puppy Care.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\obj\Debug\net5.0\05. Puppy Care.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\obj\Debug\net5.0\05. Puppy Care.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\obj\Debug\net5.0\refint\05. Puppy Care.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\obj\Debug\net5.0\05. Puppy Care.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\obj\Debug\net5.0\05. Puppy Care.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\05. Puppy Care\obj\Debug\net5.0\ref\05. Puppy Care.dll

@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\bin\Debug\net5.0\05.Godzillavs.Kong.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\bin\Debug\net5.0\05.Godzillavs.Kong.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\bin\Debug\net5.0\05.Godzillavs.Kong.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\bin\Debug\net5.0\05.Godzillavs.Kong.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\bin\Debug\net5.0\05.Godzillavs.Kong.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\bin\Debug\net5.0\05.Godzillavs.Kong.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\obj\Debug\net5.0\refint\05.Godzillavs.Kong.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\obj\Debug\net5.0\05.Godzillavs.Kong.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\Conditional Statements-Exercise\05.Godzillavs.Kong\obj\Debug\net5.0\ref\05.Godzillavs.Kong.dll

@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\bin\Debug\net5.0\01.USDtoBGN.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\bin\Debug\net5.0\01.USDtoBGN.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\bin\Debug\net5.0\01.USDtoBGN.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\bin\Debug\net5.0\01.USDtoBGN.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\bin\Debug\net5.0\01.USDtoBGN.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\bin\Debug\net5.0\01.USDtoBGN.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\obj\Debug\net5.0\01.USDtoBGN.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\obj\Debug\net5.0\01.USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\obj\Debug\net5.0\01.USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\obj\Debug\net5.0\01.USDtoBGN.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\obj\Debug\net5.0\01.USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\obj\Debug\net5.0\01.USDtoBGN.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\obj\Debug\net5.0\refint\01.USDtoBGN.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\obj\Debug\net5.0\01.USDtoBGN.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\obj\Debug\net5.0\01.USDtoBGN.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\First Steps In Coding - Exercise\01.USDtoBGN\obj\Debug\net5.0\ref\01.USDtoBGN.dll

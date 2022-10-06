@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\bin\Debug\net5.0\03. Football Souvenirs.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\bin\Debug\net5.0\03. Football Souvenirs.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\bin\Debug\net5.0\03. Football Souvenirs.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\bin\Debug\net5.0\03. Football Souvenirs.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\bin\Debug\net5.0\03. Football Souvenirs.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\bin\Debug\net5.0\03. Football Souvenirs.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\obj\Debug\net5.0\03. Football Souvenirs.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\obj\Debug\net5.0\03. Football Souvenirs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\obj\Debug\net5.0\03. Football Souvenirs.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\obj\Debug\net5.0\03. Football Souvenirs.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\obj\Debug\net5.0\03. Football Souvenirs.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\obj\Debug\net5.0\03. Football Souvenirs.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\obj\Debug\net5.0\refint\03. Football Souvenirs.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\obj\Debug\net5.0\03. Football Souvenirs.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\obj\Debug\net5.0\03. Football Souvenirs.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basic exam oficial\03. Football Souvenirs\obj\Debug\net5.0\ref\03. Football Souvenirs.dll

@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\bin\Debug\net5.0\01.Oscars.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\bin\Debug\net5.0\01.Oscars.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\bin\Debug\net5.0\01.Oscars.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\bin\Debug\net5.0\01.Oscars.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\bin\Debug\net5.0\01.Oscars.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\bin\Debug\net5.0\01.Oscars.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\obj\Debug\net5.0\01.Oscars.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\obj\Debug\net5.0\01.Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\obj\Debug\net5.0\01.Oscars.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\obj\Debug\net5.0\01.Oscars.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\obj\Debug\net5.0\01.Oscars.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\obj\Debug\net5.0\01.Oscars.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\obj\Debug\net5.0\refint\01.Oscars.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\obj\Debug\net5.0\01.Oscars.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\obj\Debug\net5.0\01.Oscars.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\basics exam\01.Oscars\obj\Debug\net5.0\ref\01.Oscars.dll

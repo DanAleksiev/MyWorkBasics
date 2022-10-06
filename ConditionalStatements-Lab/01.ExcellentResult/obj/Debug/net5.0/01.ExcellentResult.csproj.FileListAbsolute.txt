@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\net5.0\01.ExcellentResult.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\net5.0\01.ExcellentResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\net5.0\01.ExcellentResult.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\net5.0\01.ExcellentResult.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\net5.0\01.ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\bin\Debug\net5.0\01.ExcellentResult.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\bin\Debug\net5.0\01.ExcellentResult.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\bin\Debug\net5.0\01.ExcellentResult.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\bin\Debug\net5.0\01.ExcellentResult.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\bin\Debug\net5.0\01.ExcellentResult.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\bin\Debug\net5.0\01.ExcellentResult.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\net5.0\01.ExcellentResult.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\net5.0\refint\01.ExcellentResult.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\net5.0\01.ExcellentResult.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\net5.0\01.ExcellentResult.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\net5.0\ref\01.ExcellentResult.dll
